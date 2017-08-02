@@ -1,0 +1,12 @@
+Herramientas de compilación GCC Uber 5.4.1
+
+Link de descarga: (Varias versiones)
+
+Arm-linux-androideabi-5.4.1:
+https://bitbucket.org/matthewdalex/arm-linux-androideabi-5.x/get/4abc82f1a14f.zip
+Aarch64-linux-android-5.4.1:
+https://bitbucket.org/matthewdalex/aarch64-linux-android-5.x/get/cf083e6bfb8d.zip
+Arm-eabi-5.4.1:
+https://bitbucket.org/matthewdalex/arm-eabi-5.x/get/f7741b9e8e5a.zip
+
+Por motivos de peso de archivos se me es imposible de subir a github
